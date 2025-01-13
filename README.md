@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/5haiqin/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/5haiqin/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/5haiqin/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/5haiqin/Leetcode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
