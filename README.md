@@ -164,12 +164,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/5haiqin/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/5haiqin/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/5haiqin/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/5haiqin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/5haiqin/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/5haiqin/Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/5haiqin/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Sliding Window
 |  |
 | ------- |
