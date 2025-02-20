@@ -47,6 +47,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/5haiqin/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/5haiqin/Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/5haiqin/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -165,6 +166,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/5haiqin/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/5haiqin/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/5haiqin/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/5haiqin/Leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/5haiqin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/5haiqin/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -193,4 +195,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/5haiqin/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/5haiqin/Leetcode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/5haiqin/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
