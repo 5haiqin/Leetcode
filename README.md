@@ -35,6 +35,7 @@
 | [0058-length-of-last-word](https://github.com/5haiqin/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/5haiqin/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/5haiqin/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/5haiqin/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/5haiqin/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/5haiqin/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## String Matching
@@ -124,6 +125,7 @@
 | [0063-unique-paths-ii](https://github.com/5haiqin/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/5haiqin/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/5haiqin/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/5haiqin/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/5haiqin/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/5haiqin/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5haiqin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
