@@ -74,6 +74,7 @@
 | [0073-set-matrix-zeroes](https://github.com/5haiqin/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/5haiqin/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/5haiqin/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/5haiqin/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/5haiqin/Leetcode/tree/master/0118-pascals-triangle) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/5haiqin/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/5haiqin/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/5haiqin/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/5haiqin/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
@@ -255,6 +257,7 @@
 | [0046-permutations](https://github.com/5haiqin/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/5haiqin/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/5haiqin/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/5haiqin/Leetcode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
