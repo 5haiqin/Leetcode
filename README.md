@@ -79,6 +79,7 @@
 | [0078-subsets](https://github.com/5haiqin/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/5haiqin/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/5haiqin/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/5haiqin/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/5haiqin/Leetcode/tree/master/0118-pascals-triangle) |
@@ -94,6 +95,7 @@
 | [0035-search-insert-position](https://github.com/5haiqin/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/5haiqin/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/5haiqin/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/5haiqin/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Math
 |  |
 | ------- |
