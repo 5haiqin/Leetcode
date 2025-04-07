@@ -119,6 +119,7 @@
 | [0069-sqrtx](https://github.com/5haiqin/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/5haiqin/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/5haiqin/Leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/5haiqin/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/5haiqin/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
@@ -151,6 +152,7 @@
 | [0072-edit-distance](https://github.com/5haiqin/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/5haiqin/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/5haiqin/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/5haiqin/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/5haiqin/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/5haiqin/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5haiqin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/5haiqin/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/5haiqin/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/5haiqin/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/5haiqin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -207,6 +210,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/5haiqin/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/5haiqin/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/5haiqin/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/5haiqin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -232,6 +236,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/5haiqin/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/5haiqin/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
