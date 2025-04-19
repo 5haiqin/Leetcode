@@ -206,6 +206,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/5haiqin/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/5haiqin/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -222,6 +223,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/5haiqin/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/5haiqin/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -246,6 +248,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/5haiqin/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/5haiqin/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -258,6 +261,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/5haiqin/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/5haiqin/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -302,6 +306,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/5haiqin/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/5haiqin/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/5haiqin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/5haiqin/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
