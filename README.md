@@ -46,6 +46,7 @@
 | [0097-interleaving-string](https://github.com/5haiqin/Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/5haiqin/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/5haiqin/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/5haiqin/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## String Matching
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0089-gray-code](https://github.com/5haiqin/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/5haiqin/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/5haiqin/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/5haiqin/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
 | ------- |
