@@ -131,6 +131,7 @@
 | [0096-unique-binary-search-trees](https://github.com/5haiqin/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/5haiqin/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/5haiqin/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0054-spiral-matrix](https://github.com/5haiqin/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/5haiqin/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/5haiqin/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,4 +387,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
