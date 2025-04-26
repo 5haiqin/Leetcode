@@ -99,6 +99,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/5haiqin/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/5haiqin/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -183,6 +184,7 @@
 | [0056-merge-intervals](https://github.com/5haiqin/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/5haiqin/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/5haiqin/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/5haiqin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/5haiqin/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Linked List
 |  |
@@ -377,4 +381,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/5haiqin/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
