@@ -143,6 +143,7 @@
 | [0090-subsets-ii](https://github.com/5haiqin/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/5haiqin/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/5haiqin/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/5haiqin/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/5haiqin/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/5haiqin/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
