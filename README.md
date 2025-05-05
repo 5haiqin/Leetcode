@@ -101,6 +101,7 @@
 | [0136-single-number](https://github.com/5haiqin/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@
 | [0168-excel-sheet-column-title](https://github.com/5haiqin/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/5haiqin/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/5haiqin/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -408,5 +410,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
