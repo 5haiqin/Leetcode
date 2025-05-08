@@ -104,6 +104,7 @@
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/5haiqin/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -332,6 +333,7 @@
 | [0202-happy-number](https://github.com/5haiqin/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/5haiqin/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/5haiqin/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Linked List
 |  |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/5haiqin/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
