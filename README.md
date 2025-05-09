@@ -208,6 +208,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/5haiqin/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -424,4 +425,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/5haiqin/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/5haiqin/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
