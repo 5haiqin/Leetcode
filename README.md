@@ -236,6 +236,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/5haiqin/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/5haiqin/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/5haiqin/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/5haiqin/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/5haiqin/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0226-invert-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
