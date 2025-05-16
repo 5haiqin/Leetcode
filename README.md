@@ -141,6 +141,7 @@
 | [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/5haiqin/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/5haiqin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -154,6 +155,7 @@
 | [0190-reverse-bits](https://github.com/5haiqin/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/5haiqin/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/5haiqin/Leetcode/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/5haiqin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
