@@ -50,6 +50,7 @@
 | [0171-excel-sheet-column-number](https://github.com/5haiqin/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/5haiqin/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/5haiqin/Leetcode/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 ## String Matching
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/5haiqin/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -351,6 +353,7 @@
 | [0217-contains-duplicate](https://github.com/5haiqin/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/5haiqin/Leetcode/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Linked List
 |  |
