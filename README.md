@@ -109,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/5haiqin/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@
 | [0074-search-a-2d-matrix](https://github.com/5haiqin/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/5haiqin/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
