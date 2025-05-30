@@ -58,6 +58,7 @@
 | [0541-reverse-string-ii](https://github.com/5haiqin/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/5haiqin/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/5haiqin/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String Matching
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0566-reshape-the-matrix](https://github.com/5haiqin/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/5haiqin/Leetcode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -387,6 +389,7 @@
 | [0242-valid-anagram](https://github.com/5haiqin/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/5haiqin/Leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Linked List
 |  |
