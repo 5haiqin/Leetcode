@@ -26,6 +26,7 @@
 | [0541-reverse-string-ii](https://github.com/5haiqin/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/5haiqin/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0633-sum-of-square-numbers](https://github.com/5haiqin/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/5haiqin/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/5haiqin/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/5haiqin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/5haiqin/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
