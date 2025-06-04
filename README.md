@@ -279,6 +279,7 @@
 | [0563-binary-tree-tilt](https://github.com/5haiqin/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [0563-binary-tree-tilt](https://github.com/5haiqin/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [0563-binary-tree-tilt](https://github.com/5haiqin/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
