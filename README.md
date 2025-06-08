@@ -27,6 +27,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/5haiqin/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/5haiqin/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/5haiqin/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -460,6 +462,7 @@
 | [0055-jump-game](https://github.com/5haiqin/Leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/5haiqin/Leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
