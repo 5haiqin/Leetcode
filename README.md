@@ -135,6 +135,7 @@
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/5haiqin/Leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/5haiqin/Leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
@@ -150,6 +151,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/5haiqin/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/5haiqin/Leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
