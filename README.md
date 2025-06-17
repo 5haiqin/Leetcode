@@ -136,6 +136,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/5haiqin/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/5haiqin/Leetcode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
@@ -440,6 +441,7 @@
 | [0575-distribute-candies](https://github.com/5haiqin/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
+| [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Linked List
@@ -462,6 +464,7 @@
 | [0203-remove-linked-list-elements](https://github.com/5haiqin/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -543,6 +546,7 @@
 | [0225-implement-stack-using-queues](https://github.com/5haiqin/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/5haiqin/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -564,4 +568,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
