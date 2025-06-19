@@ -468,6 +468,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -551,6 +552,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
