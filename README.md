@@ -64,6 +64,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/5haiqin/Leetcode/tree/master/0686-repeated-string-match) |
+| [0742-to-lower-case](https://github.com/5haiqin/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 ## String Matching
