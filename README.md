@@ -64,6 +64,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/5haiqin/Leetcode/tree/master/0686-repeated-string-match) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/5haiqin/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/5haiqin/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -228,6 +229,7 @@
 | [0119-pascals-triangle-ii](https://github.com/5haiqin/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/5haiqin/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5haiqin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/5haiqin/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0804-rotated-digits](https://github.com/5haiqin/Leetcode/tree/master/0804-rotated-digits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
