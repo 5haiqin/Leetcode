@@ -142,6 +142,7 @@
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/5haiqin/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/5haiqin/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/5haiqin/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
@@ -240,6 +241,7 @@
 | [0120-triangle](https://github.com/5haiqin/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5haiqin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/5haiqin/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0747-min-cost-climbing-stairs](https://github.com/5haiqin/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/5haiqin/Leetcode/tree/master/0804-rotated-digits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
