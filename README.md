@@ -55,6 +55,7 @@
 | [0171-excel-sheet-column-number](https://github.com/5haiqin/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/5haiqin/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/5haiqin/Leetcode/tree/master/0242-valid-anagram) |
+| [0482-license-key-formatting](https://github.com/5haiqin/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/5haiqin/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/5haiqin/Leetcode/tree/master/0541-reverse-string-ii) |
