@@ -127,6 +127,7 @@
 | [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/5haiqin/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/5haiqin/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/5haiqin/Leetcode/tree/master/0561-array-partition) |
