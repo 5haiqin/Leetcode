@@ -131,6 +131,7 @@
 | [0495-teemo-attacking](https://github.com/5haiqin/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/5haiqin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/5haiqin/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/5haiqin/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/5haiqin/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/5haiqin/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -272,6 +273,7 @@
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/5haiqin/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/5haiqin/Leetcode/tree/master/0242-valid-anagram) |
+| [0506-relative-ranks](https://github.com/5haiqin/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/5haiqin/Leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -602,6 +604,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/5haiqin/Leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
