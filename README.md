@@ -139,6 +139,7 @@
 | [0566-reshape-the-matrix](https://github.com/5haiqin/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/5haiqin/Leetcode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
@@ -279,6 +280,7 @@
 | [0506-relative-ranks](https://github.com/5haiqin/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/5haiqin/Leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/5haiqin/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -482,6 +484,7 @@
 | [0496-next-greater-element-i](https://github.com/5haiqin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/5haiqin/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
@@ -526,6 +529,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/5haiqin/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/5haiqin/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/5haiqin/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
@@ -579,6 +583,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Number Theory
 |  |
 | ------- |
