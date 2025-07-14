@@ -342,6 +342,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,6 +417,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/5haiqin/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
