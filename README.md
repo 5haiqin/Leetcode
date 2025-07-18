@@ -144,6 +144,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/5haiqin/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/5haiqin/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -286,6 +287,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/5haiqin/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/5haiqin/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -494,6 +496,7 @@
 | [0575-distribute-candies](https://github.com/5haiqin/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/5haiqin/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
@@ -549,6 +552,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/5haiqin/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/5haiqin/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -594,6 +598,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 ## Number Theory
 |  |
 | ------- |
@@ -632,6 +637,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/5haiqin/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
