@@ -342,6 +342,7 @@
 | [0572-subtree-of-another-tree](https://github.com/5haiqin/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/5haiqin/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -378,6 +379,7 @@
 | [0572-subtree-of-another-tree](https://github.com/5haiqin/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/5haiqin/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
@@ -419,6 +421,7 @@
 | [0572-subtree-of-another-tree](https://github.com/5haiqin/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/5haiqin/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -441,6 +444,7 @@
 | [0404-sum-of-left-leaves](https://github.com/5haiqin/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/5haiqin/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/5haiqin/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/5haiqin/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
