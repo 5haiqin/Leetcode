@@ -147,6 +147,7 @@
 | [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/5haiqin/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/5haiqin/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/5haiqin/Leetcode/tree/master/0682-baseball-game) |
@@ -304,6 +305,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/5haiqin/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/5haiqin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0636-exclusive-time-of-functions](https://github.com/5haiqin/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/5haiqin/Leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
