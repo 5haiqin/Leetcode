@@ -148,6 +148,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/5haiqin/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/5haiqin/Leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/5haiqin/Leetcode/tree/master/0682-baseball-game) |
@@ -227,6 +228,7 @@
 | [0191-number-of-1-bits](https://github.com/5haiqin/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/5haiqin/Leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/5haiqin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -260,6 +262,7 @@
 | [0119-pascals-triangle-ii](https://github.com/5haiqin/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/5haiqin/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5haiqin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/5haiqin/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/5haiqin/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/5haiqin/Leetcode/tree/master/0804-rotated-digits) |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/5haiqin/Leetcode/tree/master/0070-climbing-stairs) |
+| [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -583,6 +587,7 @@
 | [0093-restore-ip-addresses](https://github.com/5haiqin/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/5haiqin/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/5haiqin/Leetcode/tree/master/0113-path-sum-ii) |
+| [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
 ## Matrix
 |  |
 | ------- |
@@ -676,4 +681,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/5haiqin/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
