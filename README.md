@@ -30,6 +30,7 @@
 | [0633-sum-of-square-numbers](https://github.com/5haiqin/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/5haiqin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/5haiqin/Leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0657-robot-return-to-origin](https://github.com/5haiqin/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/5haiqin/Leetcode/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/5haiqin/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/5haiqin/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/5haiqin/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
