@@ -59,6 +59,7 @@
 | [0171-excel-sheet-column-number](https://github.com/5haiqin/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/5haiqin/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/5haiqin/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/5haiqin/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/5haiqin/Leetcode/tree/master/0520-detect-capital) |
@@ -217,6 +218,7 @@
 | [0231-power-of-two](https://github.com/5haiqin/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/5haiqin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/5haiqin/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/5haiqin/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/5haiqin/Leetcode/tree/master/0507-perfect-number) |
@@ -249,6 +251,7 @@
 | [0059-spiral-matrix-ii](https://github.com/5haiqin/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/5haiqin/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/5haiqin/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/5haiqin/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/5haiqin/Leetcode/tree/master/0657-robot-return-to-origin) |
