@@ -79,6 +79,7 @@
 | [0742-to-lower-case](https://github.com/5haiqin/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [1205-defanging-an-ip-address](https://github.com/5haiqin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
 |  |
 | ------- |
