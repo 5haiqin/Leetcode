@@ -143,6 +143,7 @@
 | [0228-summary-ranges](https://github.com/5haiqin/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/5haiqin/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/5haiqin/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/5haiqin/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/5haiqin/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/5haiqin/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/5haiqin/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -668,6 +669,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/5haiqin/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/5haiqin/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/5haiqin/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/5haiqin/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -707,6 +709,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/5haiqin/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/5haiqin/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
