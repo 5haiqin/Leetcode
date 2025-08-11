@@ -148,6 +148,7 @@
 | [0303-range-sum-query-immutable](https://github.com/5haiqin/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/5haiqin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5haiqin/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/5haiqin/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/5haiqin/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/5haiqin/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/5haiqin/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -324,6 +325,7 @@
 | [0268-missing-number](https://github.com/5haiqin/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/5haiqin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5haiqin/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/5haiqin/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/5haiqin/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/5haiqin/Leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/5haiqin/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
