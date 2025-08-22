@@ -198,6 +198,7 @@
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/5haiqin/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/5haiqin/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -256,6 +257,7 @@
 | [0633-sum-of-square-numbers](https://github.com/5haiqin/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/5haiqin/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0804-rotated-digits](https://github.com/5haiqin/Leetcode/tree/master/0804-rotated-digits) |
+| [0830-largest-triangle-area](https://github.com/5haiqin/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -763,4 +765,8 @@
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/5haiqin/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
