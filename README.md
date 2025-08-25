@@ -37,6 +37,7 @@
 | [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/5haiqin/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/5haiqin/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0830-largest-triangle-area](https://github.com/5haiqin/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/5haiqin/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -281,6 +283,7 @@
 | [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/5haiqin/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0566-reshape-the-matrix](https://github.com/5haiqin/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/5haiqin/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/5haiqin/Leetcode/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -685,6 +689,7 @@
 | [0661-image-smoother](https://github.com/5haiqin/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/5haiqin/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 ## Combinatorics
 |  |
 | ------- |
