@@ -207,6 +207,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/5haiqin/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/5haiqin/Leetcode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/5haiqin/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -299,6 +300,7 @@
 | [0657-robot-return-to-origin](https://github.com/5haiqin/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/5haiqin/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/5haiqin/Leetcode/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -692,6 +694,7 @@
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/5haiqin/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/5haiqin/Leetcode/tree/master/0898-transpose-matrix) |
 ## Combinatorics
 |  |
 | ------- |
