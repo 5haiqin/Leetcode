@@ -210,6 +210,7 @@
 | [0898-transpose-matrix](https://github.com/5haiqin/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0919-projection-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/5haiqin/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/5haiqin/Leetcode/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 ## Math
 |  |
 | ------- |
@@ -366,6 +368,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/5haiqin/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/5haiqin/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 ## Stack
 |  |
 | ------- |
@@ -603,6 +606,7 @@
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 ## Linked List
 |  |
 | ------- |
