@@ -212,6 +212,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [0932-monotonic-array](https://github.com/5haiqin/Leetcode/tree/master/0932-monotonic-array) |
 ## Binary Search
 |  |
 | ------- |
