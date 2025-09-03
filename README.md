@@ -216,6 +216,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/5haiqin/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/5haiqin/Leetcode/tree/master/0944-smallest-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [0830-largest-triangle-area](https://github.com/5haiqin/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+| [0944-smallest-range-i](https://github.com/5haiqin/Leetcode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
