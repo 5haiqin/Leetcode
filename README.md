@@ -90,6 +90,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/5haiqin/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/5haiqin/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1205-defanging-an-ip-address](https://github.com/5haiqin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
 |  |
@@ -218,6 +219,7 @@
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/5haiqin/Leetcode/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Binary Search
 |  |
 | ------- |
@@ -621,6 +623,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Linked List
 |  |
 | ------- |
