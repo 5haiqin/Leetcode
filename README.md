@@ -39,6 +39,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/5haiqin/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/5haiqin/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/5haiqin/Leetcode/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0958-sort-array-by-parity-ii](https://github.com/5haiqin/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Binary Search
 |  |
@@ -382,6 +384,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/5haiqin/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/5haiqin/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Stack
 |  |
 | ------- |
