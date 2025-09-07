@@ -222,6 +222,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/5haiqin/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
+| [0978-valid-mountain-array](https://github.com/5haiqin/Leetcode/tree/master/0978-valid-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
