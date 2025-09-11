@@ -230,6 +230,7 @@
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/5haiqin/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -636,6 +637,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Linked List
 |  |
 | ------- |
