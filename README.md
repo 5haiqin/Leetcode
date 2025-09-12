@@ -231,6 +231,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/5haiqin/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [0944-smallest-range-i](https://github.com/5haiqin/Leetcode/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 | [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/5haiqin/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Stack
 |  |
 | ------- |
@@ -696,6 +699,7 @@
 | [0680-valid-palindrome-ii](https://github.com/5haiqin/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/5haiqin/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Backtracking
 |  |
 | ------- |
