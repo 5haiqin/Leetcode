@@ -232,6 +232,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1031-add-to-array-form-of-integer](https://github.com/5haiqin/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1031-add-to-array-form-of-integer](https://github.com/5haiqin/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
