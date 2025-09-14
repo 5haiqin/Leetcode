@@ -233,6 +233,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/5haiqin/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/5haiqin/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Binary Search
 |  |
 | ------- |
@@ -643,6 +644,7 @@
 | [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1039-find-the-town-judge](https://github.com/5haiqin/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -838,4 +840,8 @@
 | [0830-largest-triangle-area](https://github.com/5haiqin/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/5haiqin/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
