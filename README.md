@@ -96,6 +96,7 @@
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/5haiqin/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/5haiqin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
 |  |
@@ -235,6 +236,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/5haiqin/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/5haiqin/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/5haiqin/Leetcode/tree/master/1041-available-captures-for-rook) |
+| [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -647,6 +649,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/5haiqin/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
 ## Linked List
 |  |
 | ------- |
