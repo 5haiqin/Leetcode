@@ -238,6 +238,7 @@
 | [1041-available-captures-for-rook](https://github.com/5haiqin/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/5haiqin/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/5haiqin/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -712,6 +713,7 @@
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/5haiqin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/5haiqin/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/5haiqin/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Backtracking
 |  |
 | ------- |
