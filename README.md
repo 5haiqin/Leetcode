@@ -239,6 +239,7 @@
 | [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/5haiqin/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/5haiqin/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/5haiqin/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Binary Search
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 | [0645-set-mismatch](https://github.com/5haiqin/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/5haiqin/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/5haiqin/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
 | ------- |
