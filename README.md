@@ -242,6 +242,7 @@
 | [1071-binary-prefix-divisible-by-5](https://github.com/5haiqin/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1094-matrix-cells-in-distance-order](https://github.com/5haiqin/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/5haiqin/Leetcode/tree/master/1115-valid-boomerang) |
+| [1127-last-stone-weight](https://github.com/5haiqin/Leetcode/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -822,6 +823,7 @@
 | [0506-relative-ranks](https://github.com/5haiqin/Leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/5haiqin/Leetcode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
