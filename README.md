@@ -41,6 +41,7 @@
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/5haiqin/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
+| [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
 ## String
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [1115-valid-boomerang](https://github.com/5haiqin/Leetcode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/5haiqin/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/5haiqin/Leetcode/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
