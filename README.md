@@ -247,6 +247,7 @@
 | [1137-height-checker](https://github.com/5haiqin/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -668,6 +669,7 @@
 | [1039-find-the-town-judge](https://github.com/5haiqin/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -788,6 +790,7 @@
 | [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Number Theory
 |  |
 | ------- |
