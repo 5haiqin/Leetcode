@@ -248,6 +248,7 @@
 | [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1287-distance-between-bus-stops](https://github.com/5haiqin/Leetcode/tree/master/1287-distance-between-bus-stops) |
 ## Binary Search
 |  |
 | ------- |
