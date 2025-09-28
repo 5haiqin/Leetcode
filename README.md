@@ -98,6 +98,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/5haiqin/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/5haiqin/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/5haiqin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
 |  |
@@ -242,6 +243,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/5haiqin/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/5haiqin/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1094-matrix-cells-in-distance-order](https://github.com/5haiqin/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/5haiqin/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1115-valid-boomerang](https://github.com/5haiqin/Leetcode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/5haiqin/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/5haiqin/Leetcode/tree/master/1137-height-checker) |
@@ -669,6 +671,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/5haiqin/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/5haiqin/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/5haiqin/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Linked List
@@ -791,6 +794,7 @@
 | [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/5haiqin/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Number Theory
 |  |
