@@ -251,6 +251,7 @@
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/5haiqin/Leetcode/tree/master/1287-distance-between-bus-stops) |
+| [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/5haiqin/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/5haiqin/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
+| [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Stack
 |  |
 | ------- |
