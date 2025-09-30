@@ -252,6 +252,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/5haiqin/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -676,6 +677,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/5haiqin/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
