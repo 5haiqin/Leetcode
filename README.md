@@ -78,6 +78,7 @@
 | [0344-reverse-string](https://github.com/5haiqin/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/5haiqin/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/5haiqin/Leetcode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/5haiqin/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/5haiqin/Leetcode/tree/master/0520-detect-capital) |
@@ -311,6 +312,7 @@
 | [0268-missing-number](https://github.com/5haiqin/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/5haiqin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/5haiqin/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/5haiqin/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/5haiqin/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/5haiqin/Leetcode/tree/master/0507-perfect-number) |
@@ -357,6 +359,7 @@
 | [0067-add-binary](https://github.com/5haiqin/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/5haiqin/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/5haiqin/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/5haiqin/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/5haiqin/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/5haiqin/Leetcode/tree/master/0657-robot-return-to-origin) |
