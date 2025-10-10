@@ -29,6 +29,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/5haiqin/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/5haiqin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5haiqin/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/5haiqin/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/5haiqin/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/5haiqin/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -80,6 +81,7 @@
 | [0383-ransom-note](https://github.com/5haiqin/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/5haiqin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/5haiqin/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/5haiqin/Leetcode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/5haiqin/Leetcode/tree/master/0482-license-key-formatting) |
@@ -392,6 +394,7 @@
 | [0119-pascals-triangle-ii](https://github.com/5haiqin/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/5haiqin/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5haiqin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0392-is-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/5haiqin/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/5haiqin/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/5haiqin/Leetcode/tree/master/0638-shopping-offers) |
