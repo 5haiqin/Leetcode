@@ -84,6 +84,7 @@
 | [0392-is-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/5haiqin/Leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/5haiqin/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/5haiqin/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/5haiqin/Leetcode/tree/master/0520-detect-capital) |
