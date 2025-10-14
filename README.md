@@ -87,6 +87,7 @@
 | [0412-fizz-buzz](https://github.com/5haiqin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/5haiqin/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/5haiqin/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/5haiqin/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/5haiqin/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/5haiqin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/5haiqin/Leetcode/tree/master/0520-detect-capital) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/5haiqin/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/5haiqin/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/5haiqin/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/5haiqin/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
