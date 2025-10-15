@@ -106,6 +106,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/5haiqin/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/5haiqin/Leetcode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/5haiqin/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0782-jewels-and-stones](https://github.com/5haiqin/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/5haiqin/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -694,6 +695,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/5haiqin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/5haiqin/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/5haiqin/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0782-jewels-and-stones](https://github.com/5haiqin/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
