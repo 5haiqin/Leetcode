@@ -112,6 +112,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/5haiqin/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/5haiqin/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/5haiqin/Leetcode/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/5haiqin/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
