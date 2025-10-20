@@ -116,6 +116,7 @@
 | [0851-goat-latin](https://github.com/5haiqin/Leetcode/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/5haiqin/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/5haiqin/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/5haiqin/Leetcode/tree/master/0889-buddy-strings) |
 | [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/5haiqin/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -707,6 +708,7 @@
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/5haiqin/Leetcode/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/5haiqin/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
