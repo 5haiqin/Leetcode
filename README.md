@@ -46,6 +46,7 @@
 | [0941-sort-array-by-parity](https://github.com/5haiqin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/5haiqin/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/5haiqin/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/5haiqin/Leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
 ## String
@@ -120,6 +121,7 @@
 | [0889-buddy-strings](https://github.com/5haiqin/Leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/5haiqin/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/5haiqin/Leetcode/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/5haiqin/Leetcode/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/5haiqin/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/5haiqin/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
