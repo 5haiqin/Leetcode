@@ -127,6 +127,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/5haiqin/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/5haiqin/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/5haiqin/Leetcode/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/5haiqin/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/5haiqin/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/5haiqin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -482,6 +483,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/5haiqin/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/5haiqin/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
