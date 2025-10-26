@@ -131,6 +131,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/5haiqin/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/5haiqin/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/5haiqin/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1260-day-of-the-year](https://github.com/5haiqin/Leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## String Matching
 |  |
@@ -356,6 +357,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/5haiqin/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/5haiqin/Leetcode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/5haiqin/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1260-day-of-the-year](https://github.com/5haiqin/Leetcode/tree/master/1260-day-of-the-year) |
 ## Bit Manipulation
 |  |
 | ------- |
