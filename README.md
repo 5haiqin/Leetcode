@@ -49,6 +49,7 @@
 | [0961-long-pressed-name](https://github.com/5haiqin/Leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1454-remove-palindromic-subsequences](https://github.com/5haiqin/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [1260-day-of-the-year](https://github.com/5haiqin/Leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/5haiqin/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1454-remove-palindromic-subsequences](https://github.com/5haiqin/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 ## String Matching
 |  |
 | ------- |
