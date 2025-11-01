@@ -139,6 +139,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/5haiqin/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1454-remove-palindromic-subsequences](https://github.com/5haiqin/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/5haiqin/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## String Matching
 |  |
 | ------- |
