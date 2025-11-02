@@ -140,6 +140,7 @@
 | [1454-remove-palindromic-subsequences](https://github.com/5haiqin/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/5haiqin/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0572-subtree-of-another-tree](https://github.com/5haiqin/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/5haiqin/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [1287-distance-between-bus-stops](https://github.com/5haiqin/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
