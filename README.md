@@ -141,6 +141,7 @@
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/5haiqin/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1532-reformat-the-string](https://github.com/5haiqin/Leetcode/tree/master/1532-reformat-the-string) |
 ## String Matching
 |  |
 | ------- |
