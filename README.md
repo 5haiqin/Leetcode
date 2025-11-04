@@ -142,6 +142,7 @@
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/5haiqin/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/5haiqin/Leetcode/tree/master/1532-reformat-the-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/5haiqin/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -942,6 +943,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/5haiqin/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/5haiqin/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/5haiqin/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Segment Tree
 |  |
 | ------- |
