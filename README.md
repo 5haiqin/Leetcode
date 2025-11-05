@@ -143,6 +143,7 @@
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/5haiqin/Leetcode/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/5haiqin/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 ## String Matching
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 ## Binary Search
 |  |
 | ------- |
@@ -749,6 +751,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 ## Linked List
 |  |
 | ------- |
