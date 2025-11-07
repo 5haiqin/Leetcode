@@ -50,6 +50,7 @@
 | [0979-di-string-match](https://github.com/5haiqin/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/5haiqin/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/5haiqin/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/5haiqin/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0686-repeated-string-match](https://github.com/5haiqin/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
 | ------- |
