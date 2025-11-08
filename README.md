@@ -147,6 +147,7 @@
 | [1542-consecutive-characters](https://github.com/5haiqin/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
 ## String Matching
 |  |
 | ------- |
@@ -756,6 +757,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
+| [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
 ## Linked List
 |  |
 | ------- |
