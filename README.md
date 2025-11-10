@@ -149,6 +149,7 @@
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/5haiqin/Leetcode/tree/master/1666-make-the-string-great) |
 ## String Matching
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [0874-backspace-string-compare](https://github.com/5haiqin/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/5haiqin/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/5haiqin/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/5haiqin/Leetcode/tree/master/1666-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
