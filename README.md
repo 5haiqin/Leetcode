@@ -150,6 +150,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/5haiqin/Leetcode/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/5haiqin/Leetcode/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/5haiqin/Leetcode/tree/master/1666-make-the-string-great) |
 ## String Matching
 |  |
