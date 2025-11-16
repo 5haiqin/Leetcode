@@ -567,6 +567,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -608,6 +609,7 @@
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -653,6 +655,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -676,6 +679,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/5haiqin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -705,6 +709,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Hash Table
 |  |
 | ------- |
