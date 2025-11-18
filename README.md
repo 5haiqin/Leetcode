@@ -154,6 +154,7 @@
 | [1666-make-the-string-great](https://github.com/5haiqin/Leetcode/tree/master/1666-make-the-string-great) |
 | [1714-rearrange-spaces-between-words](https://github.com/5haiqin/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## String Matching
 |  |
@@ -316,6 +317,7 @@
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/5haiqin/Leetcode/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Binary Search
 |  |
@@ -410,6 +412,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/5haiqin/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/5haiqin/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -776,6 +779,7 @@
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -908,6 +912,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/5haiqin/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |
