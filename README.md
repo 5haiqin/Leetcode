@@ -155,6 +155,7 @@
 | [1714-rearrange-spaces-between-words](https://github.com/5haiqin/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1812-reformat-phone-number](https://github.com/5haiqin/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## String Matching
 |  |
