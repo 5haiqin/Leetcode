@@ -314,6 +314,7 @@
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/5haiqin/Leetcode/tree/master/1651-shuffle-string) |
@@ -393,6 +394,7 @@
 | [1260-day-of-the-year](https://github.com/5haiqin/Leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/5haiqin/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1000,6 +1002,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/5haiqin/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/5haiqin/Leetcode/tree/master/1115-valid-boomerang) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Graph
 |  |
 | ------- |
