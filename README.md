@@ -152,6 +152,7 @@
 | [1651-shuffle-string](https://github.com/5haiqin/Leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/5haiqin/Leetcode/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/5haiqin/Leetcode/tree/master/1666-make-the-string-great) |
+| [1668-maximum-repeating-substring](https://github.com/5haiqin/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1714-rearrange-spaces-between-words](https://github.com/5haiqin/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -167,6 +168,7 @@
 | [0812-rotate-string](https://github.com/5haiqin/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/5haiqin/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Array
 |  |
 | ------- |
@@ -464,6 +466,7 @@
 | [0804-rotated-digits](https://github.com/5haiqin/Leetcode/tree/master/0804-rotated-digits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/5haiqin/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
