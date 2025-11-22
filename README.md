@@ -153,6 +153,7 @@
 | [1660-thousand-separator](https://github.com/5haiqin/Leetcode/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/5haiqin/Leetcode/tree/master/1666-make-the-string-great) |
 | [1668-maximum-repeating-substring](https://github.com/5haiqin/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/5haiqin/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1714-rearrange-spaces-between-words](https://github.com/5haiqin/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -918,6 +919,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/5haiqin/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/5haiqin/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
