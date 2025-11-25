@@ -157,6 +157,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/5haiqin/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1714-rearrange-spaces-between-words](https://github.com/5haiqin/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
+| [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/5haiqin/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -420,6 +421,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/5haiqin/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/5haiqin/Leetcode/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/5haiqin/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
@@ -708,6 +710,7 @@
 | [0169-majority-element](https://github.com/5haiqin/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/5haiqin/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/5haiqin/Leetcode/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -790,6 +793,7 @@
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
+| [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
@@ -833,6 +837,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/5haiqin/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/5haiqin/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
