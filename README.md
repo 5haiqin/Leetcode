@@ -327,6 +327,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/5haiqin/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/5haiqin/Leetcode/tree/master/1651-shuffle-string) |
@@ -408,6 +409,7 @@
 | [1274-number-of-days-between-two-dates](https://github.com/5haiqin/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1512-number-of-good-pairs](https://github.com/5haiqin/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -806,6 +808,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1512-number-of-good-pairs](https://github.com/5haiqin/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
 | [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -945,6 +948,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/5haiqin/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1512-number-of-good-pairs](https://github.com/5haiqin/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/5haiqin/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
