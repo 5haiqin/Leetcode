@@ -160,6 +160,7 @@
 | [1668-maximum-repeating-substring](https://github.com/5haiqin/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/5haiqin/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1714-rearrange-spaces-between-words](https://github.com/5haiqin/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/5haiqin/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
 | [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -881,6 +882,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/5haiqin/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/5haiqin/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/5haiqin/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Backtracking
 |  |
 | ------- |
