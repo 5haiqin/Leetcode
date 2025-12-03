@@ -162,6 +162,7 @@
 | [1714-rearrange-spaces-between-words](https://github.com/5haiqin/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/5haiqin/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/5haiqin/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/5haiqin/Leetcode/tree/master/1812-reformat-phone-number) |
