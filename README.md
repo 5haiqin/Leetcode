@@ -52,6 +52,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1454-remove-palindromic-subsequences](https://github.com/5haiqin/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/5haiqin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1768-merge-strings-alternately](https://github.com/5haiqin/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/5haiqin/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
+| [1768-merge-strings-alternately](https://github.com/5haiqin/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/5haiqin/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
