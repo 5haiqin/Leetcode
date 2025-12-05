@@ -324,6 +324,7 @@
 | [1168-duplicate-zeros](https://github.com/5haiqin/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/5haiqin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/5haiqin/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/5haiqin/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1287-distance-between-bus-stops](https://github.com/5haiqin/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -412,6 +413,7 @@
 | [1115-valid-boomerang](https://github.com/5haiqin/Leetcode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/5haiqin/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/5haiqin/Leetcode/tree/master/1260-day-of-the-year) |
+| [1266-minimum-time-visiting-all-points](https://github.com/5haiqin/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1274-number-of-days-between-two-dates](https://github.com/5haiqin/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -1046,6 +1048,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/5haiqin/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/5haiqin/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/5haiqin/Leetcode/tree/master/1115-valid-boomerang) |
+| [1266-minimum-time-visiting-all-points](https://github.com/5haiqin/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Graph
 |  |
