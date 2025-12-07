@@ -1061,4 +1061,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/5haiqin/Leetcode/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/5haiqin/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
