@@ -1086,4 +1086,5 @@
 | [0626-exchange-seats](https://github.com/5haiqin/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/5haiqin/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/5haiqin/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/5haiqin/Leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
