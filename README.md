@@ -1088,4 +1088,5 @@
 | [1045-customers-who-bought-all-products](https://github.com/5haiqin/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/5haiqin/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/5haiqin/Leetcode/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/5haiqin/Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
