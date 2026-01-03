@@ -494,6 +494,7 @@
 | [0804-rotated-digits](https://github.com/5haiqin/Leetcode/tree/master/0804-rotated-digits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/5haiqin/Leetcode/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/5haiqin/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1668-maximum-repeating-substring](https://github.com/5haiqin/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
 |  |
