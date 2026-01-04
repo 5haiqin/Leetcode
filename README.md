@@ -334,6 +334,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/5haiqin/Leetcode/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/5haiqin/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/5haiqin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/5haiqin/Leetcode/tree/master/1547-destination-city) |
@@ -419,6 +420,7 @@
 | [1274-number-of-days-between-two-dates](https://github.com/5haiqin/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1390-four-divisors](https://github.com/5haiqin/Leetcode/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/5haiqin/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
