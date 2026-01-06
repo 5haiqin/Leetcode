@@ -616,6 +616,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -657,6 +658,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -704,6 +706,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -728,6 +731,7 @@
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
