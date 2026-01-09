@@ -615,6 +615,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/5haiqin/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -659,6 +660,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/5haiqin/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/5haiqin/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -707,6 +709,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/5haiqin/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/5haiqin/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -733,6 +736,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/5haiqin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/5haiqin/Leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/5haiqin/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/5haiqin/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/5haiqin/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Divide and Conquer
@@ -812,6 +816,7 @@
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/5haiqin/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/5haiqin/Leetcode/tree/master/0837-most-common-word) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/5haiqin/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-buddy-strings](https://github.com/5haiqin/Leetcode/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/5haiqin/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/5haiqin/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
