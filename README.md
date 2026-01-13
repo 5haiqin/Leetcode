@@ -345,6 +345,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3453-separate-squares-i](https://github.com/5haiqin/Leetcode/tree/master/3453-separate-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [0792-binary-search](https://github.com/5haiqin/Leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3453-separate-squares-i](https://github.com/5haiqin/Leetcode/tree/master/3453-separate-squares-i) |
 ## Math
 |  |
 | ------- |
