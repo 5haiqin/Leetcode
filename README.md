@@ -346,6 +346,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3453-separate-squares-i](https://github.com/5haiqin/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/5haiqin/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -371,6 +372,7 @@
 | [0924-fair-candy-swap](https://github.com/5haiqin/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3453-separate-squares-i](https://github.com/5haiqin/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/5haiqin/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -1059,6 +1061,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/5haiqin/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
+| [3454-separate-squares-ii](https://github.com/5haiqin/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1115,4 +1118,8 @@
 | [1075-project-employees-i](https://github.com/5haiqin/Leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/5haiqin/Leetcode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/5haiqin/Leetcode/tree/master/1179-reformat-department-table) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/5haiqin/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
