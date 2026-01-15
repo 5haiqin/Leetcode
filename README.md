@@ -345,6 +345,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/5haiqin/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/5haiqin/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Binary Search
@@ -552,6 +553,7 @@
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Stack
 |  |
 | ------- |
