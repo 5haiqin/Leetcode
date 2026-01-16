@@ -346,6 +346,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/5haiqin/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/5haiqin/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/5haiqin/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Binary Search
@@ -850,6 +851,7 @@
 | [1619-path-crossing](https://github.com/5haiqin/Leetcode/tree/master/1619-path-crossing) |
 | [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/5haiqin/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Linked List
 |  |
 | ------- |
@@ -1002,6 +1004,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/5haiqin/Leetcode/tree/master/0204-count-primes) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/5haiqin/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Design
 |  |
 | ------- |
