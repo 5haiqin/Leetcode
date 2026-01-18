@@ -343,6 +343,7 @@
 | [1651-shuffle-string](https://github.com/5haiqin/Leetcode/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/5haiqin/Leetcode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/5haiqin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-largest-magic-square](https://github.com/5haiqin/Leetcode/tree/master/1895-largest-magic-square) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -967,6 +968,7 @@
 | [1041-available-captures-for-rook](https://github.com/5haiqin/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/5haiqin/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/5haiqin/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1895-largest-magic-square](https://github.com/5haiqin/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Combinatorics
 |  |
@@ -1063,6 +1065,7 @@
 | [0724-find-pivot-index](https://github.com/5haiqin/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/5haiqin/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/5haiqin/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-largest-magic-square](https://github.com/5haiqin/Leetcode/tree/master/1895-largest-magic-square) |
 ## Segment Tree
 |  |
 | ------- |
