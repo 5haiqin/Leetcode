@@ -349,6 +349,7 @@
 | [1895-largest-magic-square](https://github.com/5haiqin/Leetcode/tree/master/1895-largest-magic-square) |
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/5haiqin/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/5haiqin/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/5haiqin/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -570,6 +571,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/5haiqin/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/5haiqin/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Stack
 |  |
@@ -915,6 +917,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/5haiqin/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/5haiqin/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1763-longest-nice-substring](https://github.com/5haiqin/Leetcode/tree/master/1763-longest-nice-substring) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/5haiqin/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
 | ------- |
