@@ -1157,6 +1157,7 @@
 | [1148-article-views-i](https://github.com/5haiqin/Leetcode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/5haiqin/Leetcode/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/5haiqin/Leetcode/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/5haiqin/Leetcode/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/5haiqin/Leetcode/tree/master/1683-invalid-tweets) |
 ## Line Sweep
 |  |
