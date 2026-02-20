@@ -1179,6 +1179,7 @@
 | [1683-invalid-tweets](https://github.com/5haiqin/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/5haiqin/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1873-calculate-special-bonus](https://github.com/5haiqin/Leetcode/tree/master/1873-calculate-special-bonus) |
+| [1907-count-salary-categories](https://github.com/5haiqin/Leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/5haiqin/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3436-find-valid-emails](https://github.com/5haiqin/Leetcode/tree/master/3436-find-valid-emails) |
 ## Line Sweep
