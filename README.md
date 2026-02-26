@@ -338,6 +338,7 @@
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1331-rank-transform-of-an-array](https://github.com/5haiqin/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -573,6 +574,7 @@
 | [1137-height-checker](https://github.com/5haiqin/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/5haiqin/Leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/5haiqin/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/5haiqin/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/5haiqin/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -867,6 +869,7 @@
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/5haiqin/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1297-maximum-number-of-balloons](https://github.com/5haiqin/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/5haiqin/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/5haiqin/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/5haiqin/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1472-increasing-decreasing-string](https://github.com/5haiqin/Leetcode/tree/master/1472-increasing-decreasing-string) |
