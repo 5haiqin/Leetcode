@@ -442,6 +442,7 @@
 | [1260-day-of-the-year](https://github.com/5haiqin/Leetcode/tree/master/1260-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/5haiqin/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1274-number-of-days-between-two-dates](https://github.com/5haiqin/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/5haiqin/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/5haiqin/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/5haiqin/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/5haiqin/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -905,6 +906,7 @@
 | [0816-design-hashset](https://github.com/5haiqin/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/5haiqin/Leetcode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/5haiqin/Leetcode/tree/master/0838-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/5haiqin/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/5haiqin/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/5haiqin/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
