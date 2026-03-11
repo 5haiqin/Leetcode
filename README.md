@@ -1202,6 +1202,7 @@
 | [3436-find-valid-emails](https://github.com/5haiqin/Leetcode/tree/master/3436-find-valid-emails) |
 | [3451-find-invalid-ip-addresses](https://github.com/5haiqin/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/5haiqin/Leetcode/tree/master/3475-dna-pattern-recognition) |
+| [3570-find-books-with-no-available-copies](https://github.com/5haiqin/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 | [3586-find-covid-recovery-patients](https://github.com/5haiqin/Leetcode/tree/master/3586-find-covid-recovery-patients) |
 ## Line Sweep
 |  |
