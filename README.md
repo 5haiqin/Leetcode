@@ -356,6 +356,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/5haiqin/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/5haiqin/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/5haiqin/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/5haiqin/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/5haiqin/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -583,6 +584,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/5haiqin/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/5haiqin/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/5haiqin/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/5haiqin/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/5haiqin/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Stack
 |  |
@@ -960,6 +962,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/5haiqin/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/5haiqin/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/5haiqin/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/5haiqin/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Backtracking
 |  |
 | ------- |
@@ -1086,6 +1089,7 @@
 | [0621-task-scheduler](https://github.com/5haiqin/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/5haiqin/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/5haiqin/Leetcode/tree/master/1127-last-stone-weight) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/5haiqin/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/5haiqin/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/5haiqin/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Data Stream
